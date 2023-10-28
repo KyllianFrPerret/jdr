@@ -1,0 +1,49 @@
+﻿etape1
+Dans une contrée lointaine un vaillant héros partit à la recherche d'un objet légendaire: le bouclier ailé des Dieux
+Ce bouclier est artéfacte crée par les dieux qui l'ont caché dans une grotte protégée par un dragon
+Quelle est le nom du valeureux guerrier ?
+Ah oui, le nom de notre héros est
+Avant de partir à l'aventure,vous faites une halte auberge , vous souhaitez vous y reposer. L'aubergiste s'exclame : " Approchez vous jeune voyageur , venez prendre place parmi nous" Il ne vous reste plus beaucoup d'agent.
+Voulez vous attaquer le pauvre aubergiste qui ne vous a rien demandé. 
+Vous decidez de l'attaquer. En tout honnêté ,cela n'est pas très gentil mais vous le faites quand même.
+Vous avez battu le pauvre homme. L'aubergiste, effrayé ,vous laisse passer.
+Vous souhaitez ne pas attaquer ce pauvre homme qui a surement une famille. Vous lui réglez la facture. L'aubergiste:"J'espère que vous passerez un bon séjour parmi nous."
+Vous allez vous reposer. 
+Vous vous réveillez. Vous vous équipez et une fois à l'aceuil de l'auberge , un homme vient vers vous.
+Il dit:"J'ai une carte pour vous, celle ci vous guideras dans votre périple, voulez vous la prendre?"
+"J'ai dit , voulez vous prendre cette carte"
+"Il va falloir que vous la preniez"
+"Si vous voulez commencer votre partie , faut l'accepter"
+"Appuie sur o"
+Vous sortez de l'auberge avec votre carte en main.
+Le chemin se coupe en deux.
+Quel chemin choissez vous gauche(g) ou droite(d).
+Vous voyez un enfant en pleur?
+Voulez vous le prendre ou votre aile?
+L'enfant s'arrete de pleurer et viens avec vous.
+Un vieux devin apparait devant vous , celui ci semble être agressif.
+Voulez vous l'attaquer ?
+Vous decidez alors d'attaquer le pauvre devin ?
+Vous venez de mettre ko le le devin? celui ci n'est pas près de se réveiller.
+Vous réussissez à semer le devin en courant.
+Un immense ours se dress devant vous.
+Voulez vous laissez l'enfant servir d'appât pendant que vous vous échappez.
+Vous decidez de combattre l'ours et de protéger l'enfant.
+Vous avez vaincu l'ours.
+Vous decidez de sacrifier le pauvre enfant. Vous êtes un audieux personnage.
+Voulez vous prendre les potions tombé de la poche du devin inanimer.
+Vous prenez les potions.
+Vous laissez le corps du devin derrière vous.
+Les deux chemins vu plus tôt semblent s'être rejoins. Un marchand ambulant se trouve à votre gauche.
+Voulez vous aller parler au marchand?
+Voulez vous vendre des objets?
+Vous vendez les potions du vieux devin.Vous gagnez 15 pv.
+Vous ne vendez pas la potion.
+Vous ne possédez rien.
+Votre long périple semble être arrivé à terme.Un immense dragon gardanr l'artefact tant espérer se dress devant vos yeux équarquiller. Vous entamez alors ce qui sera surement votre dernier combat avant le boucilier.
+Vous obtenez le bouclier qui reconnait en vous de la bonté. FIN $
+Vous obtenez le bouclier , malheureusement vous avez du faire des choses réprimendables pour y arriver. FIN
+Vous obtenez le bouclier , mais pour ce faire, vous avez été un monstre. FIN
+Game over , vous réussirez une prochaine fois.
+Un ours se dresse devant vous, il vous attaque.
+Par chance vous avez vaincu l'ours.
